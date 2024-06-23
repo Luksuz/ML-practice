@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "3fd4fb6f",
+   "id": "b3bd99d4",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2024-06-23T20:56:56.446754Z",
-     "iopub.status.busy": "2024-06-23T20:56:56.445828Z",
-     "iopub.status.idle": "2024-06-23T20:57:02.358790Z",
-     "shell.execute_reply": "2024-06-23T20:57:02.357900Z"
+     "iopub.execute_input": "2024-06-23T21:38:58.365618Z",
+     "iopub.status.busy": "2024-06-23T21:38:58.364932Z",
+     "iopub.status.idle": "2024-06-23T21:39:04.286952Z",
+     "shell.execute_reply": "2024-06-23T21:39:04.286146Z"
     },
     "papermill": {
-     "duration": 5.923648,
-     "end_time": "2024-06-23T20:57:02.361031",
+     "duration": 5.932458,
+     "end_time": "2024-06-23T21:39:04.289421",
      "exception": false,
-     "start_time": "2024-06-23T20:56:56.437383",
+     "start_time": "2024-06-23T21:38:58.356963",
      "status": "completed"
     },
     "tags": []
@@ -41,19 +41,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "8367e493",
+   "id": "a83e0ada",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T20:57:02.375295Z",
-     "iopub.status.busy": "2024-06-23T20:57:02.374856Z",
-     "iopub.status.idle": "2024-06-23T20:57:02.512867Z",
-     "shell.execute_reply": "2024-06-23T20:57:02.512074Z"
+     "iopub.execute_input": "2024-06-23T21:39:04.303968Z",
+     "iopub.status.busy": "2024-06-23T21:39:04.303213Z",
+     "iopub.status.idle": "2024-06-23T21:39:04.441164Z",
+     "shell.execute_reply": "2024-06-23T21:39:04.440434Z"
     },
     "papermill": {
-     "duration": 0.147641,
-     "end_time": "2024-06-23T20:57:02.515181",
+     "duration": 0.147443,
+     "end_time": "2024-06-23T21:39:04.443461",
      "exception": false,
-     "start_time": "2024-06-23T20:57:02.367540",
+     "start_time": "2024-06-23T21:39:04.296018",
      "status": "completed"
     },
     "tags": []
@@ -68,19 +68,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "37f3075d",
+   "id": "aadc7259",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T20:57:02.529036Z",
-     "iopub.status.busy": "2024-06-23T20:57:02.528716Z",
-     "iopub.status.idle": "2024-06-23T20:57:02.533059Z",
-     "shell.execute_reply": "2024-06-23T20:57:02.531989Z"
+     "iopub.execute_input": "2024-06-23T21:39:04.457939Z",
+     "iopub.status.busy": "2024-06-23T21:39:04.457170Z",
+     "iopub.status.idle": "2024-06-23T21:39:04.461513Z",
+     "shell.execute_reply": "2024-06-23T21:39:04.460613Z"
     },
     "papermill": {
-     "duration": 0.014713,
-     "end_time": "2024-06-23T20:57:02.536297",
+     "duration": 0.013516,
+     "end_time": "2024-06-23T21:39:04.463545",
      "exception": false,
-     "start_time": "2024-06-23T20:57:02.521584",
+     "start_time": "2024-06-23T21:39:04.450029",
      "status": "completed"
     },
     "tags": []
@@ -93,19 +93,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "d64d38d8",
+   "id": "3deb952e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T20:57:02.552367Z",
-     "iopub.status.busy": "2024-06-23T20:57:02.551433Z",
-     "iopub.status.idle": "2024-06-23T20:57:02.561852Z",
-     "shell.execute_reply": "2024-06-23T20:57:02.560127Z"
+     "iopub.execute_input": "2024-06-23T21:39:04.477711Z",
+     "iopub.status.busy": "2024-06-23T21:39:04.476906Z",
+     "iopub.status.idle": "2024-06-23T21:39:04.484150Z",
+     "shell.execute_reply": "2024-06-23T21:39:04.483295Z"
     },
     "papermill": {
-     "duration": 0.020252,
-     "end_time": "2024-06-23T20:57:02.564209",
+     "duration": 0.016146,
+     "end_time": "2024-06-23T21:39:04.486090",
      "exception": false,
-     "start_time": "2024-06-23T20:57:02.543957",
+     "start_time": "2024-06-23T21:39:04.469944",
      "status": "completed"
     },
     "tags": []
@@ -118,19 +118,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "e64a9d9a",
+   "id": "a9d7fbb9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T20:57:02.577787Z",
-     "iopub.status.busy": "2024-06-23T20:57:02.577473Z",
-     "iopub.status.idle": "2024-06-23T20:57:02.601755Z",
-     "shell.execute_reply": "2024-06-23T20:57:02.600823Z"
+     "iopub.execute_input": "2024-06-23T21:39:04.499527Z",
+     "iopub.status.busy": "2024-06-23T21:39:04.499202Z",
+     "iopub.status.idle": "2024-06-23T21:39:04.523319Z",
+     "shell.execute_reply": "2024-06-23T21:39:04.522430Z"
     },
     "papermill": {
-     "duration": 0.033424,
-     "end_time": "2024-06-23T20:57:02.603822",
+     "duration": 0.03298,
+     "end_time": "2024-06-23T21:39:04.525239",
      "exception": false,
-     "start_time": "2024-06-23T20:57:02.570398",
+     "start_time": "2024-06-23T21:39:04.492259",
      "status": "completed"
     },
     "tags": []
@@ -279,19 +279,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "2f934d6a",
+   "id": "43b7ebf7",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T20:57:02.619052Z",
-     "iopub.status.busy": "2024-06-23T20:57:02.618449Z",
-     "iopub.status.idle": "2024-06-23T20:57:02.644828Z",
-     "shell.execute_reply": "2024-06-23T20:57:02.643695Z"
+     "iopub.execute_input": "2024-06-23T21:39:04.539844Z",
+     "iopub.status.busy": "2024-06-23T21:39:04.539163Z",
+     "iopub.status.idle": "2024-06-23T21:39:04.564743Z",
+     "shell.execute_reply": "2024-06-23T21:39:04.563652Z"
     },
     "papermill": {
-     "duration": 0.035846,
-     "end_time": "2024-06-23T20:57:02.646973",
+     "duration": 0.034846,
+     "end_time": "2024-06-23T21:39:04.566743",
      "exception": false,
-     "start_time": "2024-06-23T20:57:02.611127",
+     "start_time": "2024-06-23T21:39:04.531897",
      "status": "completed"
     },
     "tags": []
@@ -330,19 +330,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "d2eb89c8",
+   "id": "e678c88f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T20:57:02.661911Z",
-     "iopub.status.busy": "2024-06-23T20:57:02.661580Z",
-     "iopub.status.idle": "2024-06-23T20:57:02.669395Z",
-     "shell.execute_reply": "2024-06-23T20:57:02.668466Z"
+     "iopub.execute_input": "2024-06-23T21:39:04.581210Z",
+     "iopub.status.busy": "2024-06-23T21:39:04.580681Z",
+     "iopub.status.idle": "2024-06-23T21:39:04.588271Z",
+     "shell.execute_reply": "2024-06-23T21:39:04.586947Z"
     },
     "papermill": {
-     "duration": 0.017366,
-     "end_time": "2024-06-23T20:57:02.671553",
+     "duration": 0.016985,
+     "end_time": "2024-06-23T21:39:04.590340",
      "exception": false,
-     "start_time": "2024-06-23T20:57:02.654187",
+     "start_time": "2024-06-23T21:39:04.573355",
      "status": "completed"
     },
     "tags": []
@@ -370,19 +370,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "d89f4489",
+   "id": "e0b448aa",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T20:57:02.685967Z",
-     "iopub.status.busy": "2024-06-23T20:57:02.685685Z",
-     "iopub.status.idle": "2024-06-23T20:57:02.699468Z",
-     "shell.execute_reply": "2024-06-23T20:57:02.698771Z"
+     "iopub.execute_input": "2024-06-23T21:39:04.604682Z",
+     "iopub.status.busy": "2024-06-23T21:39:04.604399Z",
+     "iopub.status.idle": "2024-06-23T21:39:04.617799Z",
+     "shell.execute_reply": "2024-06-23T21:39:04.617020Z"
     },
     "papermill": {
-     "duration": 0.023214,
-     "end_time": "2024-06-23T20:57:02.701534",
+     "duration": 0.023056,
+     "end_time": "2024-06-23T21:39:04.619965",
      "exception": false,
-     "start_time": "2024-06-23T20:57:02.678320",
+     "start_time": "2024-06-23T21:39:04.596909",
      "status": "completed"
     },
     "tags": []
@@ -395,19 +395,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "9a3619e6",
+   "id": "5347c671",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T20:57:02.715873Z",
-     "iopub.status.busy": "2024-06-23T20:57:02.715561Z",
-     "iopub.status.idle": "2024-06-23T20:57:03.746662Z",
-     "shell.execute_reply": "2024-06-23T20:57:03.745651Z"
+     "iopub.execute_input": "2024-06-23T21:39:04.634517Z",
+     "iopub.status.busy": "2024-06-23T21:39:04.634240Z",
+     "iopub.status.idle": "2024-06-23T21:39:05.588591Z",
+     "shell.execute_reply": "2024-06-23T21:39:05.587764Z"
     },
     "papermill": {
-     "duration": 1.040908,
-     "end_time": "2024-06-23T20:57:03.749127",
+     "duration": 0.964162,
+     "end_time": "2024-06-23T21:39:05.590950",
      "exception": false,
-     "start_time": "2024-06-23T20:57:02.708219",
+     "start_time": "2024-06-23T21:39:04.626788",
      "status": "completed"
     },
     "tags": []
@@ -428,19 +428,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "fb59104f",
+   "id": "e3d1031e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T20:57:03.765870Z",
-     "iopub.status.busy": "2024-06-23T20:57:03.765139Z",
-     "iopub.status.idle": "2024-06-23T20:57:03.792557Z",
-     "shell.execute_reply": "2024-06-23T20:57:03.791690Z"
+     "iopub.execute_input": "2024-06-23T21:39:05.607482Z",
+     "iopub.status.busy": "2024-06-23T21:39:05.607088Z",
+     "iopub.status.idle": "2024-06-23T21:39:05.628051Z",
+     "shell.execute_reply": "2024-06-23T21:39:05.627197Z"
     },
     "papermill": {
-     "duration": 0.037528,
-     "end_time": "2024-06-23T20:57:03.794752",
+     "duration": 0.030767,
+     "end_time": "2024-06-23T21:39:05.629899",
      "exception": false,
-     "start_time": "2024-06-23T20:57:03.757224",
+     "start_time": "2024-06-23T21:39:05.599132",
      "status": "completed"
     },
     "tags": []
@@ -646,19 +646,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "9bb5b55b",
+   "id": "3a172200",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T20:57:03.811552Z",
-     "iopub.status.busy": "2024-06-23T20:57:03.810809Z",
-     "iopub.status.idle": "2024-06-23T20:57:03.928639Z",
-     "shell.execute_reply": "2024-06-23T20:57:03.927178Z"
+     "iopub.execute_input": "2024-06-23T21:39:05.645605Z",
+     "iopub.status.busy": "2024-06-23T21:39:05.645257Z",
+     "iopub.status.idle": "2024-06-23T21:39:05.756663Z",
+     "shell.execute_reply": "2024-06-23T21:39:05.755731Z"
     },
     "papermill": {
-     "duration": 0.128465,
-     "end_time": "2024-06-23T20:57:03.930799",
+     "duration": 0.121856,
+     "end_time": "2024-06-23T21:39:05.758965",
      "exception": false,
-     "start_time": "2024-06-23T20:57:03.802334",
+     "start_time": "2024-06-23T21:39:05.637109",
      "status": "completed"
     },
     "tags": []
@@ -690,19 +690,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "294a7fea",
+   "id": "2eb27240",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T20:57:03.946618Z",
-     "iopub.status.busy": "2024-06-23T20:57:03.946296Z",
-     "iopub.status.idle": "2024-06-23T20:57:03.954073Z",
-     "shell.execute_reply": "2024-06-23T20:57:03.953137Z"
+     "iopub.execute_input": "2024-06-23T21:39:05.775152Z",
+     "iopub.status.busy": "2024-06-23T21:39:05.774865Z",
+     "iopub.status.idle": "2024-06-23T21:39:05.782853Z",
+     "shell.execute_reply": "2024-06-23T21:39:05.782060Z"
     },
     "papermill": {
-     "duration": 0.017738,
-     "end_time": "2024-06-23T20:57:03.956008",
+     "duration": 0.017971,
+     "end_time": "2024-06-23T21:39:05.784679",
      "exception": false,
-     "start_time": "2024-06-23T20:57:03.938270",
+     "start_time": "2024-06-23T21:39:05.766708",
      "status": "completed"
     },
     "tags": []
@@ -733,19 +733,19 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "3ba4d74a",
+   "id": "11d1cc58",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T20:57:03.971881Z",
-     "iopub.status.busy": "2024-06-23T20:57:03.971162Z",
-     "iopub.status.idle": "2024-06-23T20:57:03.977240Z",
-     "shell.execute_reply": "2024-06-23T20:57:03.976369Z"
+     "iopub.execute_input": "2024-06-23T21:39:05.801040Z",
+     "iopub.status.busy": "2024-06-23T21:39:05.800353Z",
+     "iopub.status.idle": "2024-06-23T21:39:05.805331Z",
+     "shell.execute_reply": "2024-06-23T21:39:05.804446Z"
     },
     "papermill": {
-     "duration": 0.016193,
-     "end_time": "2024-06-23T20:57:03.979202",
+     "duration": 0.015355,
+     "end_time": "2024-06-23T21:39:05.807391",
      "exception": false,
-     "start_time": "2024-06-23T20:57:03.963009",
+     "start_time": "2024-06-23T21:39:05.792036",
      "status": "completed"
     },
     "tags": []
@@ -753,7 +753,7 @@
    "outputs": [],
    "source": [
     "transform = transforms.Compose([\n",
-    "    transforms.Resize((16, 16)),  # Resize to match input size of the model\n",
+    "    transforms.Resize((4, 4)),  # Resize to match input size of the model\n",
     "    transforms.ToTensor(),\n",
     "    transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]),\n",
     "])"
@@ -762,19 +762,19 @@
   {
    "cell_type": "code",
    "execution_count": 14,
-   "id": "a77a12da",
+   "id": "6bac25d0",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T20:57:03.994187Z",
-     "iopub.status.busy": "2024-06-23T20:57:03.993889Z",
-     "iopub.status.idle": "2024-06-23T20:57:03.999792Z",
-     "shell.execute_reply": "2024-06-23T20:57:03.998848Z"
+     "iopub.execute_input": "2024-06-23T21:39:05.823002Z",
+     "iopub.status.busy": "2024-06-23T21:39:05.822708Z",
+     "iopub.status.idle": "2024-06-23T21:39:05.828537Z",
+     "shell.execute_reply": "2024-06-23T21:39:05.827754Z"
     },
     "papermill": {
-     "duration": 0.01561,
-     "end_time": "2024-06-23T20:57:04.001749",
+     "duration": 0.015794,
+     "end_time": "2024-06-23T21:39:05.830540",
      "exception": false,
-     "start_time": "2024-06-23T20:57:03.986139",
+     "start_time": "2024-06-23T21:39:05.814746",
      "status": "completed"
     },
     "tags": []
@@ -794,19 +794,19 @@
   {
    "cell_type": "code",
    "execution_count": 15,
-   "id": "e11185d1",
+   "id": "b693e783",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T20:57:04.017153Z",
-     "iopub.status.busy": "2024-06-23T20:57:04.016503Z",
-     "iopub.status.idle": "2024-06-23T20:57:04.027102Z",
-     "shell.execute_reply": "2024-06-23T20:57:04.026223Z"
+     "iopub.execute_input": "2024-06-23T21:39:05.846774Z",
+     "iopub.status.busy": "2024-06-23T21:39:05.846520Z",
+     "iopub.status.idle": "2024-06-23T21:39:05.854210Z",
+     "shell.execute_reply": "2024-06-23T21:39:05.853427Z"
     },
     "papermill": {
-     "duration": 0.020349,
-     "end_time": "2024-06-23T20:57:04.029047",
+     "duration": 0.017984,
+     "end_time": "2024-06-23T21:39:05.856059",
      "exception": false,
-     "start_time": "2024-06-23T20:57:04.008698",
+     "start_time": "2024-06-23T21:39:05.838075",
      "status": "completed"
     },
     "tags": []
@@ -841,19 +841,19 @@
   {
    "cell_type": "code",
    "execution_count": 16,
-   "id": "09d0a007",
+   "id": "f84dfbbc",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T20:57:04.044113Z",
-     "iopub.status.busy": "2024-06-23T20:57:04.043798Z",
-     "iopub.status.idle": "2024-06-23T20:57:04.528074Z",
-     "shell.execute_reply": "2024-06-23T20:57:04.527100Z"
+     "iopub.execute_input": "2024-06-23T21:39:05.871769Z",
+     "iopub.status.busy": "2024-06-23T21:39:05.871509Z",
+     "iopub.status.idle": "2024-06-23T21:39:06.332618Z",
+     "shell.execute_reply": "2024-06-23T21:39:06.331710Z"
     },
     "papermill": {
-     "duration": 0.494197,
-     "end_time": "2024-06-23T20:57:04.530082",
+     "duration": 0.471411,
+     "end_time": "2024-06-23T21:39:06.334659",
      "exception": false,
-     "start_time": "2024-06-23T20:57:04.035885",
+     "start_time": "2024-06-23T21:39:05.863248",
      "status": "completed"
     },
     "tags": []
@@ -887,19 +887,19 @@
   {
    "cell_type": "code",
    "execution_count": 17,
-   "id": "07fa27f7",
+   "id": "8be135f3",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T20:57:04.545719Z",
-     "iopub.status.busy": "2024-06-23T20:57:04.545349Z",
-     "iopub.status.idle": "2024-06-23T20:57:05.514055Z",
-     "shell.execute_reply": "2024-06-23T20:57:05.513249Z"
+     "iopub.execute_input": "2024-06-23T21:39:06.350629Z",
+     "iopub.status.busy": "2024-06-23T21:39:06.350267Z",
+     "iopub.status.idle": "2024-06-23T21:39:07.013593Z",
+     "shell.execute_reply": "2024-06-23T21:39:07.012606Z"
     },
     "papermill": {
-     "duration": 0.979018,
-     "end_time": "2024-06-23T20:57:05.516267",
+     "duration": 0.673851,
+     "end_time": "2024-06-23T21:39:07.015982",
      "exception": false,
-     "start_time": "2024-06-23T20:57:04.537249",
+     "start_time": "2024-06-23T21:39:06.342131",
      "status": "completed"
     },
     "tags": []
@@ -919,7 +919,7 @@
       "/opt/conda/lib/python3.10/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet18_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet18_Weights.DEFAULT` to get the most up-to-date weights.\n",
       "  warnings.warn(msg)\n",
       "Downloading: \"https://download.pytorch.org/models/resnet18-f37072fd.pth\" to /root/.cache/torch/hub/checkpoints/resnet18-f37072fd.pth\n",
-      "100%|██████████| 44.7M/44.7M [00:00<00:00, 101MB/s]\n"
+      "100%|██████████| 44.7M/44.7M [00:00<00:00, 158MB/s]\n"
      ]
     }
    ],
@@ -935,19 +935,19 @@
   {
    "cell_type": "code",
    "execution_count": 18,
-   "id": "61b291bb",
+   "id": "6ae87675",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T20:57:05.533576Z",
-     "iopub.status.busy": "2024-06-23T20:57:05.533244Z",
-     "iopub.status.idle": "2024-06-23T21:35:31.072686Z",
-     "shell.execute_reply": "2024-06-23T21:35:31.071741Z"
+     "iopub.execute_input": "2024-06-23T21:39:07.034084Z",
+     "iopub.status.busy": "2024-06-23T21:39:07.033458Z",
+     "iopub.status.idle": "2024-06-23T22:16:52.103086Z",
+     "shell.execute_reply": "2024-06-23T22:16:52.102128Z"
     },
     "papermill": {
-     "duration": 2305.562027,
-     "end_time": "2024-06-23T21:35:31.086405",
+     "duration": 2265.092175,
+     "end_time": "2024-06-23T22:16:52.116307",
      "exception": false,
-     "start_time": "2024-06-23T20:57:05.524378",
+     "start_time": "2024-06-23T21:39:07.024132",
      "status": "completed"
     },
     "tags": []
@@ -965,56 +965,56 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Epoch [1/10], Step [0], Loss: 2.1321\n",
-      "Epoch [1/10], Step [50], Loss: 1.1377\n",
-      "Epoch [1/10], Step [100], Loss: 1.0823\n",
-      "Epoch [1/10], Average Training Loss: 1.1846\n",
-      "Epoch [1/10], Validation Loss: 1.0595, Validation Accuracy: 62.50%\n",
-      "Epoch [2/10], Step [0], Loss: 1.1224\n",
-      "Epoch [2/10], Step [50], Loss: 0.9941\n",
-      "Epoch [2/10], Step [100], Loss: 0.9717\n",
-      "Epoch [2/10], Average Training Loss: 1.0494\n",
-      "Epoch [2/10], Validation Loss: 1.0302, Validation Accuracy: 64.05%\n",
-      "Epoch [3/10], Step [0], Loss: 0.8839\n",
-      "Epoch [3/10], Step [50], Loss: 0.8905\n",
-      "Epoch [3/10], Step [100], Loss: 0.9655\n",
-      "Epoch [3/10], Average Training Loss: 0.9927\n",
-      "Epoch [3/10], Validation Loss: 0.9852, Validation Accuracy: 66.05%\n",
-      "Epoch [4/10], Step [0], Loss: 0.7209\n",
-      "Epoch [4/10], Step [50], Loss: 0.9378\n",
-      "Epoch [4/10], Step [100], Loss: 1.0867\n",
-      "Epoch [4/10], Average Training Loss: 0.9635\n",
-      "Epoch [4/10], Validation Loss: 0.9873, Validation Accuracy: 65.55%\n",
-      "Epoch [5/10], Step [0], Loss: 0.8427\n",
-      "Epoch [5/10], Step [50], Loss: 0.8599\n",
-      "Epoch [5/10], Step [100], Loss: 1.0789\n",
-      "Epoch [5/10], Average Training Loss: 0.9269\n",
-      "Epoch [5/10], Validation Loss: 0.9996, Validation Accuracy: 65.21%\n",
-      "Epoch [6/10], Step [0], Loss: 0.8590\n",
-      "Epoch [6/10], Step [50], Loss: 0.8384\n",
-      "Epoch [6/10], Step [100], Loss: 1.0136\n",
-      "Epoch [6/10], Average Training Loss: 0.8948\n",
-      "Epoch [6/10], Validation Loss: 0.9701, Validation Accuracy: 65.99%\n",
-      "Epoch [7/10], Step [0], Loss: 0.8660\n",
-      "Epoch [7/10], Step [50], Loss: 0.8928\n",
-      "Epoch [7/10], Step [100], Loss: 0.8294\n",
-      "Epoch [7/10], Average Training Loss: 0.8603\n",
-      "Epoch [7/10], Validation Loss: 0.9357, Validation Accuracy: 67.24%\n",
-      "Epoch [8/10], Step [0], Loss: 0.8197\n",
-      "Epoch [8/10], Step [50], Loss: 0.8635\n",
-      "Epoch [8/10], Step [100], Loss: 0.6465\n",
-      "Epoch [8/10], Average Training Loss: 0.8241\n",
-      "Epoch [8/10], Validation Loss: 0.9653, Validation Accuracy: 66.30%\n",
-      "Epoch [9/10], Step [0], Loss: 0.7738\n",
-      "Epoch [9/10], Step [50], Loss: 0.9318\n",
-      "Epoch [9/10], Step [100], Loss: 0.7034\n",
-      "Epoch [9/10], Average Training Loss: 0.7936\n",
-      "Epoch [9/10], Validation Loss: 0.9328, Validation Accuracy: 67.43%\n",
-      "Epoch [10/10], Step [0], Loss: 0.6648\n",
-      "Epoch [10/10], Step [50], Loss: 0.7359\n",
-      "Epoch [10/10], Step [100], Loss: 0.6791\n",
-      "Epoch [10/10], Average Training Loss: 0.7458\n",
-      "Epoch [10/10], Validation Loss: 0.9526, Validation Accuracy: 66.35%\n"
+      "Epoch [1/10], Step [0], Loss: 2.2569\n",
+      "Epoch [1/10], Step [50], Loss: 1.3852\n",
+      "Epoch [1/10], Step [100], Loss: 1.3360\n",
+      "Epoch [1/10], Average Training Loss: 1.3337\n",
+      "Epoch [1/10], Validation Loss: 1.2469, Validation Accuracy: 56.17%\n",
+      "Epoch [2/10], Step [0], Loss: 1.4070\n",
+      "Epoch [2/10], Step [50], Loss: 1.2798\n",
+      "Epoch [2/10], Step [100], Loss: 1.3402\n",
+      "Epoch [2/10], Average Training Loss: 1.2249\n",
+      "Epoch [2/10], Validation Loss: 1.2354, Validation Accuracy: 56.12%\n",
+      "Epoch [3/10], Step [0], Loss: 1.1628\n",
+      "Epoch [3/10], Step [50], Loss: 1.1631\n",
+      "Epoch [3/10], Step [100], Loss: 1.2731\n",
+      "Epoch [3/10], Average Training Loss: 1.1891\n",
+      "Epoch [3/10], Validation Loss: 1.1677, Validation Accuracy: 57.78%\n",
+      "Epoch [4/10], Step [0], Loss: 1.0152\n",
+      "Epoch [4/10], Step [50], Loss: 1.2049\n",
+      "Epoch [4/10], Step [100], Loss: 1.2032\n",
+      "Epoch [4/10], Average Training Loss: 1.1678\n",
+      "Epoch [4/10], Validation Loss: 1.1570, Validation Accuracy: 58.03%\n",
+      "Epoch [5/10], Step [0], Loss: 1.2720\n",
+      "Epoch [5/10], Step [50], Loss: 1.0738\n",
+      "Epoch [5/10], Step [100], Loss: 1.0970\n",
+      "Epoch [5/10], Average Training Loss: 1.1473\n",
+      "Epoch [5/10], Validation Loss: 1.1304, Validation Accuracy: 58.70%\n",
+      "Epoch [6/10], Step [0], Loss: 1.1219\n",
+      "Epoch [6/10], Step [50], Loss: 0.9994\n",
+      "Epoch [6/10], Step [100], Loss: 1.1178\n",
+      "Epoch [6/10], Average Training Loss: 1.1322\n",
+      "Epoch [6/10], Validation Loss: 1.1439, Validation Accuracy: 58.34%\n",
+      "Epoch [7/10], Step [0], Loss: 1.1396\n",
+      "Epoch [7/10], Step [50], Loss: 1.0889\n",
+      "Epoch [7/10], Step [100], Loss: 0.9669\n",
+      "Epoch [7/10], Average Training Loss: 1.1119\n",
+      "Epoch [7/10], Validation Loss: 1.1459, Validation Accuracy: 58.14%\n",
+      "Epoch [8/10], Step [0], Loss: 1.0072\n",
+      "Epoch [8/10], Step [50], Loss: 1.1013\n",
+      "Epoch [8/10], Step [100], Loss: 1.0329\n",
+      "Epoch [8/10], Average Training Loss: 1.1071\n",
+      "Epoch [8/10], Validation Loss: 1.1215, Validation Accuracy: 58.53%\n",
+      "Epoch [9/10], Step [0], Loss: 0.9658\n",
+      "Epoch [9/10], Step [50], Loss: 1.0772\n",
+      "Epoch [9/10], Step [100], Loss: 1.0464\n",
+      "Epoch [9/10], Average Training Loss: 1.0982\n",
+      "Epoch [9/10], Validation Loss: 1.1412, Validation Accuracy: 57.92%\n",
+      "Epoch [10/10], Step [0], Loss: 1.2006\n",
+      "Epoch [10/10], Step [50], Loss: 1.1682\n",
+      "Epoch [10/10], Step [100], Loss: 1.1391\n",
+      "Epoch [10/10], Average Training Loss: 1.1050\n",
+      "Epoch [10/10], Validation Loss: 1.1181, Validation Accuracy: 59.17%\n"
      ]
     }
    ],
@@ -1069,19 +1069,19 @@
   {
    "cell_type": "code",
    "execution_count": 19,
-   "id": "f074e123",
+   "id": "278e286f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T21:35:31.110841Z",
-     "iopub.status.busy": "2024-06-23T21:35:31.110524Z",
-     "iopub.status.idle": "2024-06-23T21:36:59.518024Z",
-     "shell.execute_reply": "2024-06-23T21:36:59.517023Z"
+     "iopub.execute_input": "2024-06-23T22:16:52.141502Z",
+     "iopub.status.busy": "2024-06-23T22:16:52.140975Z",
+     "iopub.status.idle": "2024-06-23T22:18:23.079260Z",
+     "shell.execute_reply": "2024-06-23T22:18:23.078438Z"
     },
     "papermill": {
-     "duration": 88.434358,
-     "end_time": "2024-06-23T21:36:59.532381",
+     "duration": 90.967096,
+     "end_time": "2024-06-23T22:18:23.095352",
      "exception": false,
-     "start_time": "2024-06-23T21:35:31.098023",
+     "start_time": "2024-06-23T22:16:52.128256",
      "status": "completed"
     },
     "tags": []
@@ -1099,22 +1099,34 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Test Loss: 0.9945, Test Accuracy: 65.14%\n",
+      "Test Loss: 1.1344, Test Accuracy: 58.13%\n",
       "              precision    recall  f1-score   support\n",
       "\n",
-      "         MEL       0.59      0.48      0.53       870\n",
-      "          NV       0.78      0.90      0.83      2127\n",
-      "         BCC       0.61      0.53      0.57       664\n",
-      "          AK       0.23      0.28      0.26       186\n",
-      "         BKL       0.45      0.35      0.40       458\n",
-      "          DF       0.50      0.04      0.07        50\n",
-      "        VASC       0.83      0.31      0.45        32\n",
-      "         SCC       0.17      0.23      0.20       120\n",
+      "         MEL       0.49      0.36      0.42       870\n",
+      "          NV       0.73      0.85      0.78      2127\n",
+      "         BCC       0.40      0.60      0.48       664\n",
+      "          AK       0.73      0.04      0.08       186\n",
+      "         BKL       0.26      0.21      0.23       458\n",
+      "          DF       0.00      0.00      0.00        50\n",
+      "        VASC       0.00      0.00      0.00        32\n",
+      "         SCC       0.00      0.00      0.00       120\n",
       "\n",
-      "    accuracy                           0.65      4507\n",
-      "   macro avg       0.52      0.39      0.41      4507\n",
-      "weighted avg       0.64      0.65      0.64      4507\n",
+      "    accuracy                           0.58      4507\n",
+      "   macro avg       0.33      0.26      0.25      4507\n",
+      "weighted avg       0.55      0.58      0.55      4507\n",
       "\n"
+     ]
+    },
+    {
+     "name": "stderr",
+     "output_type": "stream",
+     "text": [
+      "/opt/conda/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.\n",
+      "  _warn_prf(average, modifier, msg_start, len(result))\n",
+      "/opt/conda/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.\n",
+      "  _warn_prf(average, modifier, msg_start, len(result))\n",
+      "/opt/conda/lib/python3.10/site-packages/sklearn/metrics/_classification.py:1344: UndefinedMetricWarning: Precision and F-score are ill-defined and being set to 0.0 in labels with no predicted samples. Use `zero_division` parameter to control this behavior.\n",
+      "  _warn_prf(average, modifier, msg_start, len(result))\n"
      ]
     }
    ],
@@ -1159,19 +1171,19 @@
   {
    "cell_type": "code",
    "execution_count": 20,
-   "id": "773de0fd",
+   "id": "e784ccee",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T21:36:59.557305Z",
-     "iopub.status.busy": "2024-06-23T21:36:59.557019Z",
-     "iopub.status.idle": "2024-06-23T21:36:59.562362Z",
-     "shell.execute_reply": "2024-06-23T21:36:59.561524Z"
+     "iopub.execute_input": "2024-06-23T22:18:23.120625Z",
+     "iopub.status.busy": "2024-06-23T22:18:23.120312Z",
+     "iopub.status.idle": "2024-06-23T22:18:23.127004Z",
+     "shell.execute_reply": "2024-06-23T22:18:23.126048Z"
     },
     "papermill": {
-     "duration": 0.020088,
-     "end_time": "2024-06-23T21:36:59.564246",
+     "duration": 0.022276,
+     "end_time": "2024-06-23T22:18:23.129538",
      "exception": false,
-     "start_time": "2024-06-23T21:36:59.544158",
+     "start_time": "2024-06-23T22:18:23.107262",
      "status": "completed"
     },
     "tags": []
@@ -1228,19 +1240,54 @@
     "\n",
     "#     accuracy                           0.70      4507\n",
     "#    macro avg       0.62      0.47      0.50      4507\n",
-    "# weighted avg       0.69      0.70      0.68      4507"
+    "# weighted avg       0.69      0.70      0.68      4507\n",
+    "\n",
+    "\n",
+    "# 16*16:\n",
+    "#     Test Loss: 0.9945, Test Accuracy: 65.14%\n",
+    "#               precision    recall  f1-score   support\n",
+    "\n",
+    "#          MEL       0.59      0.48      0.53       870\n",
+    "#           NV       0.78      0.90      0.83      2127\n",
+    "#          BCC       0.61      0.53      0.57       664\n",
+    "#           AK       0.23      0.28      0.26       186\n",
+    "#          BKL       0.45      0.35      0.40       458\n",
+    "#           DF       0.50      0.04      0.07        50\n",
+    "#         VASC       0.83      0.31      0.45        32\n",
+    "#          SCC       0.17      0.23      0.20       120\n",
+    "\n",
+    "#     accuracy                           0.65      4507\n",
+    "#    macro avg       0.52      0.39      0.41      4507\n",
+    "# weighted avg       0.64      0.65      0.64      4507\n"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "de100082",
+   "id": "9a75643d",
    "metadata": {
     "papermill": {
-     "duration": 0.011569,
-     "end_time": "2024-06-23T21:36:59.632166",
+     "duration": 0.011886,
+     "end_time": "2024-06-23T22:18:23.212750",
      "exception": false,
-     "start_time": "2024-06-23T21:36:59.620597",
+     "start_time": "2024-06-23T22:18:23.200864",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "49a16c88",
+   "metadata": {
+    "papermill": {
+     "duration": 0.011983,
+     "end_time": "2024-06-23T22:18:23.236793",
+     "exception": false,
+     "start_time": "2024-06-23T22:18:23.224810",
      "status": "completed"
     },
     "tags": []
@@ -1284,14 +1331,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 2407.392717,
-   "end_time": "2024-06-23T21:37:01.070938",
+   "duration": 2370.034775,
+   "end_time": "2024-06-23T22:18:25.756739",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-06-23T20:56:53.678221",
+   "start_time": "2024-06-23T21:38:55.721964",
    "version": "2.5.0"
   }
  },
