@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "8c81ecd7",
+   "id": "3fd4fb6f",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2024-06-23T12:29:17.996342Z",
-     "iopub.status.busy": "2024-06-23T12:29:17.995525Z",
-     "iopub.status.idle": "2024-06-23T12:29:23.511220Z",
-     "shell.execute_reply": "2024-06-23T12:29:23.510328Z"
+     "iopub.execute_input": "2024-06-23T20:56:56.446754Z",
+     "iopub.status.busy": "2024-06-23T20:56:56.445828Z",
+     "iopub.status.idle": "2024-06-23T20:57:02.358790Z",
+     "shell.execute_reply": "2024-06-23T20:57:02.357900Z"
     },
     "papermill": {
-     "duration": 5.526232,
-     "end_time": "2024-06-23T12:29:23.513636",
+     "duration": 5.923648,
+     "end_time": "2024-06-23T20:57:02.361031",
      "exception": false,
-     "start_time": "2024-06-23T12:29:17.987404",
+     "start_time": "2024-06-23T20:56:56.437383",
      "status": "completed"
     },
     "tags": []
@@ -41,19 +41,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "298b2a54",
+   "id": "8367e493",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T12:29:23.528199Z",
-     "iopub.status.busy": "2024-06-23T12:29:23.527706Z",
-     "iopub.status.idle": "2024-06-23T12:29:23.685538Z",
-     "shell.execute_reply": "2024-06-23T12:29:23.684654Z"
+     "iopub.execute_input": "2024-06-23T20:57:02.375295Z",
+     "iopub.status.busy": "2024-06-23T20:57:02.374856Z",
+     "iopub.status.idle": "2024-06-23T20:57:02.512867Z",
+     "shell.execute_reply": "2024-06-23T20:57:02.512074Z"
     },
     "papermill": {
-     "duration": 0.167708,
-     "end_time": "2024-06-23T12:29:23.687948",
+     "duration": 0.147641,
+     "end_time": "2024-06-23T20:57:02.515181",
      "exception": false,
-     "start_time": "2024-06-23T12:29:23.520240",
+     "start_time": "2024-06-23T20:57:02.367540",
      "status": "completed"
     },
     "tags": []
@@ -68,19 +68,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "23e6255b",
+   "id": "37f3075d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T12:29:23.702262Z",
-     "iopub.status.busy": "2024-06-23T12:29:23.701882Z",
-     "iopub.status.idle": "2024-06-23T12:29:23.706072Z",
-     "shell.execute_reply": "2024-06-23T12:29:23.705122Z"
+     "iopub.execute_input": "2024-06-23T20:57:02.529036Z",
+     "iopub.status.busy": "2024-06-23T20:57:02.528716Z",
+     "iopub.status.idle": "2024-06-23T20:57:02.533059Z",
+     "shell.execute_reply": "2024-06-23T20:57:02.531989Z"
     },
     "papermill": {
-     "duration": 0.013577,
-     "end_time": "2024-06-23T12:29:23.708066",
+     "duration": 0.014713,
+     "end_time": "2024-06-23T20:57:02.536297",
      "exception": false,
-     "start_time": "2024-06-23T12:29:23.694489",
+     "start_time": "2024-06-23T20:57:02.521584",
      "status": "completed"
     },
     "tags": []
@@ -93,19 +93,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "b28aac57",
+   "id": "d64d38d8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T12:29:23.722579Z",
-     "iopub.status.busy": "2024-06-23T12:29:23.722267Z",
-     "iopub.status.idle": "2024-06-23T12:29:23.730383Z",
-     "shell.execute_reply": "2024-06-23T12:29:23.729451Z"
+     "iopub.execute_input": "2024-06-23T20:57:02.552367Z",
+     "iopub.status.busy": "2024-06-23T20:57:02.551433Z",
+     "iopub.status.idle": "2024-06-23T20:57:02.561852Z",
+     "shell.execute_reply": "2024-06-23T20:57:02.560127Z"
     },
     "papermill": {
-     "duration": 0.017765,
-     "end_time": "2024-06-23T12:29:23.732647",
+     "duration": 0.020252,
+     "end_time": "2024-06-23T20:57:02.564209",
      "exception": false,
-     "start_time": "2024-06-23T12:29:23.714882",
+     "start_time": "2024-06-23T20:57:02.543957",
      "status": "completed"
     },
     "tags": []
@@ -118,19 +118,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "efd7c7fc",
+   "id": "e64a9d9a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T12:29:23.747080Z",
-     "iopub.status.busy": "2024-06-23T12:29:23.746779Z",
-     "iopub.status.idle": "2024-06-23T12:29:23.774154Z",
-     "shell.execute_reply": "2024-06-23T12:29:23.773093Z"
+     "iopub.execute_input": "2024-06-23T20:57:02.577787Z",
+     "iopub.status.busy": "2024-06-23T20:57:02.577473Z",
+     "iopub.status.idle": "2024-06-23T20:57:02.601755Z",
+     "shell.execute_reply": "2024-06-23T20:57:02.600823Z"
     },
     "papermill": {
-     "duration": 0.037257,
-     "end_time": "2024-06-23T12:29:23.776345",
+     "duration": 0.033424,
+     "end_time": "2024-06-23T20:57:02.603822",
      "exception": false,
-     "start_time": "2024-06-23T12:29:23.739088",
+     "start_time": "2024-06-23T20:57:02.570398",
      "status": "completed"
     },
     "tags": []
@@ -279,19 +279,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "e7a12815",
+   "id": "2f934d6a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T12:29:23.791642Z",
-     "iopub.status.busy": "2024-06-23T12:29:23.791227Z",
-     "iopub.status.idle": "2024-06-23T12:29:23.823274Z",
-     "shell.execute_reply": "2024-06-23T12:29:23.822442Z"
+     "iopub.execute_input": "2024-06-23T20:57:02.619052Z",
+     "iopub.status.busy": "2024-06-23T20:57:02.618449Z",
+     "iopub.status.idle": "2024-06-23T20:57:02.644828Z",
+     "shell.execute_reply": "2024-06-23T20:57:02.643695Z"
     },
     "papermill": {
-     "duration": 0.042339,
-     "end_time": "2024-06-23T12:29:23.825859",
+     "duration": 0.035846,
+     "end_time": "2024-06-23T20:57:02.646973",
      "exception": false,
-     "start_time": "2024-06-23T12:29:23.783520",
+     "start_time": "2024-06-23T20:57:02.611127",
      "status": "completed"
     },
     "tags": []
@@ -330,19 +330,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "ffdc3ee9",
+   "id": "d2eb89c8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T12:29:23.843663Z",
-     "iopub.status.busy": "2024-06-23T12:29:23.843223Z",
-     "iopub.status.idle": "2024-06-23T12:29:23.852520Z",
-     "shell.execute_reply": "2024-06-23T12:29:23.851393Z"
+     "iopub.execute_input": "2024-06-23T20:57:02.661911Z",
+     "iopub.status.busy": "2024-06-23T20:57:02.661580Z",
+     "iopub.status.idle": "2024-06-23T20:57:02.669395Z",
+     "shell.execute_reply": "2024-06-23T20:57:02.668466Z"
     },
     "papermill": {
-     "duration": 0.020001,
-     "end_time": "2024-06-23T12:29:23.855072",
+     "duration": 0.017366,
+     "end_time": "2024-06-23T20:57:02.671553",
      "exception": false,
-     "start_time": "2024-06-23T12:29:23.835071",
+     "start_time": "2024-06-23T20:57:02.654187",
      "status": "completed"
     },
     "tags": []
@@ -352,7 +352,7 @@
      "name": "stderr",
      "output_type": "stream",
      "text": [
-      "/tmp/ipykernel_25/290600658.py:2: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.\n",
+      "/tmp/ipykernel_24/290600658.py:2: FutureWarning: A value is trying to be set on a copy of a DataFrame or Series through chained assignment using an inplace method.\n",
       "The behavior will change in pandas 3.0. This inplace method will never work because the intermediate object on which we are setting values always behaves as a copy.\n",
       "\n",
       "For example, when doing 'df[col].method(value, inplace=True)', try using 'df.method({col: value}, inplace=True)' or df[col] = df[col].method(value) instead, to perform the operation inplace on the original object.\n",
@@ -370,19 +370,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "a63a55fa",
+   "id": "d89f4489",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T12:29:23.872017Z",
-     "iopub.status.busy": "2024-06-23T12:29:23.871195Z",
-     "iopub.status.idle": "2024-06-23T12:29:23.888877Z",
-     "shell.execute_reply": "2024-06-23T12:29:23.888082Z"
+     "iopub.execute_input": "2024-06-23T20:57:02.685967Z",
+     "iopub.status.busy": "2024-06-23T20:57:02.685685Z",
+     "iopub.status.idle": "2024-06-23T20:57:02.699468Z",
+     "shell.execute_reply": "2024-06-23T20:57:02.698771Z"
     },
     "papermill": {
-     "duration": 0.028119,
-     "end_time": "2024-06-23T12:29:23.891114",
+     "duration": 0.023214,
+     "end_time": "2024-06-23T20:57:02.701534",
      "exception": false,
-     "start_time": "2024-06-23T12:29:23.862995",
+     "start_time": "2024-06-23T20:57:02.678320",
      "status": "completed"
     },
     "tags": []
@@ -395,19 +395,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "b3e0ee9a",
+   "id": "9a3619e6",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T12:29:23.907326Z",
-     "iopub.status.busy": "2024-06-23T12:29:23.906514Z",
-     "iopub.status.idle": "2024-06-23T12:29:24.789207Z",
-     "shell.execute_reply": "2024-06-23T12:29:24.788279Z"
+     "iopub.execute_input": "2024-06-23T20:57:02.715873Z",
+     "iopub.status.busy": "2024-06-23T20:57:02.715561Z",
+     "iopub.status.idle": "2024-06-23T20:57:03.746662Z",
+     "shell.execute_reply": "2024-06-23T20:57:03.745651Z"
     },
     "papermill": {
-     "duration": 0.892897,
-     "end_time": "2024-06-23T12:29:24.791594",
+     "duration": 1.040908,
+     "end_time": "2024-06-23T20:57:03.749127",
      "exception": false,
-     "start_time": "2024-06-23T12:29:23.898697",
+     "start_time": "2024-06-23T20:57:02.708219",
      "status": "completed"
     },
     "tags": []
@@ -428,19 +428,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "a7c80c06",
+   "id": "fb59104f",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T12:29:24.807603Z",
-     "iopub.status.busy": "2024-06-23T12:29:24.807283Z",
-     "iopub.status.idle": "2024-06-23T12:29:24.830702Z",
-     "shell.execute_reply": "2024-06-23T12:29:24.829786Z"
+     "iopub.execute_input": "2024-06-23T20:57:03.765870Z",
+     "iopub.status.busy": "2024-06-23T20:57:03.765139Z",
+     "iopub.status.idle": "2024-06-23T20:57:03.792557Z",
+     "shell.execute_reply": "2024-06-23T20:57:03.791690Z"
     },
     "papermill": {
-     "duration": 0.033232,
-     "end_time": "2024-06-23T12:29:24.832817",
+     "duration": 0.037528,
+     "end_time": "2024-06-23T20:57:03.794752",
      "exception": false,
-     "start_time": "2024-06-23T12:29:24.799585",
+     "start_time": "2024-06-23T20:57:03.757224",
      "status": "completed"
     },
     "tags": []
@@ -646,19 +646,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "de2c8b37",
+   "id": "9bb5b55b",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T12:29:24.848017Z",
-     "iopub.status.busy": "2024-06-23T12:29:24.847691Z",
-     "iopub.status.idle": "2024-06-23T12:29:24.950603Z",
-     "shell.execute_reply": "2024-06-23T12:29:24.949466Z"
+     "iopub.execute_input": "2024-06-23T20:57:03.811552Z",
+     "iopub.status.busy": "2024-06-23T20:57:03.810809Z",
+     "iopub.status.idle": "2024-06-23T20:57:03.928639Z",
+     "shell.execute_reply": "2024-06-23T20:57:03.927178Z"
     },
     "papermill": {
-     "duration": 0.113001,
-     "end_time": "2024-06-23T12:29:24.952767",
+     "duration": 0.128465,
+     "end_time": "2024-06-23T20:57:03.930799",
      "exception": false,
-     "start_time": "2024-06-23T12:29:24.839766",
+     "start_time": "2024-06-23T20:57:03.802334",
      "status": "completed"
     },
     "tags": []
@@ -690,19 +690,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "f8e10b4c",
+   "id": "294a7fea",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T12:29:24.967819Z",
-     "iopub.status.busy": "2024-06-23T12:29:24.967511Z",
-     "iopub.status.idle": "2024-06-23T12:29:24.975189Z",
-     "shell.execute_reply": "2024-06-23T12:29:24.974336Z"
+     "iopub.execute_input": "2024-06-23T20:57:03.946618Z",
+     "iopub.status.busy": "2024-06-23T20:57:03.946296Z",
+     "iopub.status.idle": "2024-06-23T20:57:03.954073Z",
+     "shell.execute_reply": "2024-06-23T20:57:03.953137Z"
     },
     "papermill": {
-     "duration": 0.017362,
-     "end_time": "2024-06-23T12:29:24.977041",
+     "duration": 0.017738,
+     "end_time": "2024-06-23T20:57:03.956008",
      "exception": false,
-     "start_time": "2024-06-23T12:29:24.959679",
+     "start_time": "2024-06-23T20:57:03.938270",
      "status": "completed"
     },
     "tags": []
@@ -733,19 +733,19 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "87de8408",
+   "id": "3ba4d74a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T12:29:24.991871Z",
-     "iopub.status.busy": "2024-06-23T12:29:24.991548Z",
-     "iopub.status.idle": "2024-06-23T12:29:24.996482Z",
-     "shell.execute_reply": "2024-06-23T12:29:24.995611Z"
+     "iopub.execute_input": "2024-06-23T20:57:03.971881Z",
+     "iopub.status.busy": "2024-06-23T20:57:03.971162Z",
+     "iopub.status.idle": "2024-06-23T20:57:03.977240Z",
+     "shell.execute_reply": "2024-06-23T20:57:03.976369Z"
     },
     "papermill": {
-     "duration": 0.014418,
-     "end_time": "2024-06-23T12:29:24.998326",
+     "duration": 0.016193,
+     "end_time": "2024-06-23T20:57:03.979202",
      "exception": false,
-     "start_time": "2024-06-23T12:29:24.983908",
+     "start_time": "2024-06-23T20:57:03.963009",
      "status": "completed"
     },
     "tags": []
@@ -753,7 +753,7 @@
    "outputs": [],
    "source": [
     "transform = transforms.Compose([\n",
-    "    transforms.Resize((256, 256)),  # Resize to match input size of the model\n",
+    "    transforms.Resize((16, 16)),  # Resize to match input size of the model\n",
     "    transforms.ToTensor(),\n",
     "    transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]),\n",
     "])"
@@ -762,19 +762,19 @@
   {
    "cell_type": "code",
    "execution_count": 14,
-   "id": "6972905b",
+   "id": "a77a12da",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T12:29:25.013428Z",
-     "iopub.status.busy": "2024-06-23T12:29:25.012691Z",
-     "iopub.status.idle": "2024-06-23T12:29:25.018296Z",
-     "shell.execute_reply": "2024-06-23T12:29:25.017454Z"
+     "iopub.execute_input": "2024-06-23T20:57:03.994187Z",
+     "iopub.status.busy": "2024-06-23T20:57:03.993889Z",
+     "iopub.status.idle": "2024-06-23T20:57:03.999792Z",
+     "shell.execute_reply": "2024-06-23T20:57:03.998848Z"
     },
     "papermill": {
-     "duration": 0.014999,
-     "end_time": "2024-06-23T12:29:25.020161",
+     "duration": 0.01561,
+     "end_time": "2024-06-23T20:57:04.001749",
      "exception": false,
-     "start_time": "2024-06-23T12:29:25.005162",
+     "start_time": "2024-06-23T20:57:03.986139",
      "status": "completed"
     },
     "tags": []
@@ -794,19 +794,19 @@
   {
    "cell_type": "code",
    "execution_count": 15,
-   "id": "1bfa54fb",
+   "id": "e11185d1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T12:29:25.034647Z",
-     "iopub.status.busy": "2024-06-23T12:29:25.034408Z",
-     "iopub.status.idle": "2024-06-23T12:29:25.041898Z",
-     "shell.execute_reply": "2024-06-23T12:29:25.041028Z"
+     "iopub.execute_input": "2024-06-23T20:57:04.017153Z",
+     "iopub.status.busy": "2024-06-23T20:57:04.016503Z",
+     "iopub.status.idle": "2024-06-23T20:57:04.027102Z",
+     "shell.execute_reply": "2024-06-23T20:57:04.026223Z"
     },
     "papermill": {
-     "duration": 0.016846,
-     "end_time": "2024-06-23T12:29:25.043710",
+     "duration": 0.020349,
+     "end_time": "2024-06-23T20:57:04.029047",
      "exception": false,
-     "start_time": "2024-06-23T12:29:25.026864",
+     "start_time": "2024-06-23T20:57:04.008698",
      "status": "completed"
     },
     "tags": []
@@ -841,19 +841,19 @@
   {
    "cell_type": "code",
    "execution_count": 16,
-   "id": "84b5adc3",
+   "id": "09d0a007",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T12:29:25.058457Z",
-     "iopub.status.busy": "2024-06-23T12:29:25.058187Z",
-     "iopub.status.idle": "2024-06-23T12:29:25.557289Z",
-     "shell.execute_reply": "2024-06-23T12:29:25.556306Z"
+     "iopub.execute_input": "2024-06-23T20:57:04.044113Z",
+     "iopub.status.busy": "2024-06-23T20:57:04.043798Z",
+     "iopub.status.idle": "2024-06-23T20:57:04.528074Z",
+     "shell.execute_reply": "2024-06-23T20:57:04.527100Z"
     },
     "papermill": {
-     "duration": 0.509345,
-     "end_time": "2024-06-23T12:29:25.559711",
+     "duration": 0.494197,
+     "end_time": "2024-06-23T20:57:04.530082",
      "exception": false,
-     "start_time": "2024-06-23T12:29:25.050366",
+     "start_time": "2024-06-23T20:57:04.035885",
      "status": "completed"
     },
     "tags": []
@@ -887,19 +887,19 @@
   {
    "cell_type": "code",
    "execution_count": 17,
-   "id": "746bf05d",
+   "id": "07fa27f7",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T12:29:25.575925Z",
-     "iopub.status.busy": "2024-06-23T12:29:25.575567Z",
-     "iopub.status.idle": "2024-06-23T12:29:26.303343Z",
-     "shell.execute_reply": "2024-06-23T12:29:26.302576Z"
+     "iopub.execute_input": "2024-06-23T20:57:04.545719Z",
+     "iopub.status.busy": "2024-06-23T20:57:04.545349Z",
+     "iopub.status.idle": "2024-06-23T20:57:05.514055Z",
+     "shell.execute_reply": "2024-06-23T20:57:05.513249Z"
     },
     "papermill": {
-     "duration": 0.738171,
-     "end_time": "2024-06-23T12:29:26.305375",
+     "duration": 0.979018,
+     "end_time": "2024-06-23T20:57:05.516267",
      "exception": false,
-     "start_time": "2024-06-23T12:29:25.567204",
+     "start_time": "2024-06-23T20:57:04.537249",
      "status": "completed"
     },
     "tags": []
@@ -919,7 +919,7 @@
       "/opt/conda/lib/python3.10/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and may be removed in the future. The current behavior is equivalent to passing `weights=ResNet18_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet18_Weights.DEFAULT` to get the most up-to-date weights.\n",
       "  warnings.warn(msg)\n",
       "Downloading: \"https://download.pytorch.org/models/resnet18-f37072fd.pth\" to /root/.cache/torch/hub/checkpoints/resnet18-f37072fd.pth\n",
-      "100%|██████████| 44.7M/44.7M [00:00<00:00, 140MB/s]\n"
+      "100%|██████████| 44.7M/44.7M [00:00<00:00, 101MB/s]\n"
      ]
     }
    ],
@@ -927,7 +927,7 @@
     "num_tabular_features = len(df.columns[9:])\n",
     "print(num_tabular_features)\n",
     "\n",
-    "criterion = nn.CrossEntropyLoss(weight=normalized_weights_tensor) \n",
+    "criterion = nn.CrossEntropyLoss()#weight=normalized_weights_tensor) \n",
     "model = CombinedModel(num_tabular_features).to(device)\n",
     "optimizer = optim.Adam(lr=0.001, params=model.parameters())"
    ]
@@ -935,19 +935,19 @@
   {
    "cell_type": "code",
    "execution_count": 18,
-   "id": "e9958442",
+   "id": "61b291bb",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T12:29:26.322680Z",
-     "iopub.status.busy": "2024-06-23T12:29:26.322411Z",
-     "iopub.status.idle": "2024-06-23T13:24:28.982803Z",
-     "shell.execute_reply": "2024-06-23T13:24:28.981876Z"
+     "iopub.execute_input": "2024-06-23T20:57:05.533576Z",
+     "iopub.status.busy": "2024-06-23T20:57:05.533244Z",
+     "iopub.status.idle": "2024-06-23T21:35:31.072686Z",
+     "shell.execute_reply": "2024-06-23T21:35:31.071741Z"
     },
     "papermill": {
-     "duration": 3302.683051,
-     "end_time": "2024-06-23T13:24:28.996523",
+     "duration": 2305.562027,
+     "end_time": "2024-06-23T21:35:31.086405",
      "exception": false,
-     "start_time": "2024-06-23T12:29:26.313472",
+     "start_time": "2024-06-23T20:57:05.524378",
      "status": "completed"
     },
     "tags": []
@@ -957,7 +957,7 @@
      "name": "stderr",
      "output_type": "stream",
      "text": [
-      "/tmp/ipykernel_25/2271171968.py:18: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`\n",
+      "/tmp/ipykernel_24/2271171968.py:18: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`\n",
       "  label = torch.tensor(self.df.iloc[idx, 1:9], dtype=torch.float32)\n"
      ]
     },
@@ -965,56 +965,56 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Epoch [1/10], Step [0], Loss: 0.0465\n",
-      "Epoch [1/10], Step [50], Loss: 0.0408\n",
-      "Epoch [1/10], Step [100], Loss: 0.0495\n",
-      "Epoch [1/10], Average Training Loss: 0.0459\n",
-      "Epoch [1/10], Validation Loss: 0.0461, Validation Accuracy: 47.38%\n",
-      "Epoch [2/10], Step [0], Loss: 0.0418\n",
-      "Epoch [2/10], Step [50], Loss: 0.0292\n",
-      "Epoch [2/10], Step [100], Loss: 0.0286\n",
-      "Epoch [2/10], Average Training Loss: 0.0409\n",
-      "Epoch [2/10], Validation Loss: 0.0553, Validation Accuracy: 17.17%\n",
-      "Epoch [3/10], Step [0], Loss: 0.0356\n",
-      "Epoch [3/10], Step [50], Loss: 0.0415\n",
-      "Epoch [3/10], Step [100], Loss: 0.0277\n",
-      "Epoch [3/10], Average Training Loss: 0.0367\n",
-      "Epoch [3/10], Validation Loss: 0.0386, Validation Accuracy: 53.90%\n",
-      "Epoch [4/10], Step [0], Loss: 0.0288\n",
-      "Epoch [4/10], Step [50], Loss: 0.0330\n",
-      "Epoch [4/10], Step [100], Loss: 0.0290\n",
-      "Epoch [4/10], Average Training Loss: 0.0344\n",
-      "Epoch [4/10], Validation Loss: 0.0688, Validation Accuracy: 45.63%\n",
-      "Epoch [5/10], Step [0], Loss: 0.0495\n",
-      "Epoch [5/10], Step [50], Loss: 0.0333\n",
-      "Epoch [5/10], Step [100], Loss: 0.0315\n",
-      "Epoch [5/10], Average Training Loss: 0.0336\n",
-      "Epoch [5/10], Validation Loss: 0.0386, Validation Accuracy: 60.28%\n",
-      "Epoch [6/10], Step [0], Loss: 0.0245\n",
-      "Epoch [6/10], Step [50], Loss: 0.0285\n",
-      "Epoch [6/10], Step [100], Loss: 0.0309\n",
-      "Epoch [6/10], Average Training Loss: 0.0301\n",
-      "Epoch [6/10], Validation Loss: 0.0353, Validation Accuracy: 50.37%\n",
-      "Epoch [7/10], Step [0], Loss: 0.0361\n",
-      "Epoch [7/10], Step [50], Loss: 0.0265\n",
-      "Epoch [7/10], Step [100], Loss: 0.0378\n",
-      "Epoch [7/10], Average Training Loss: 0.0276\n",
-      "Epoch [7/10], Validation Loss: 0.0383, Validation Accuracy: 51.93%\n",
-      "Epoch [8/10], Step [0], Loss: 0.0266\n",
-      "Epoch [8/10], Step [50], Loss: 0.0235\n",
-      "Epoch [8/10], Step [100], Loss: 0.0212\n",
-      "Epoch [8/10], Average Training Loss: 0.0255\n",
-      "Epoch [8/10], Validation Loss: 0.0413, Validation Accuracy: 52.98%\n",
-      "Epoch [9/10], Step [0], Loss: 0.0222\n",
-      "Epoch [9/10], Step [50], Loss: 0.0187\n",
-      "Epoch [9/10], Step [100], Loss: 0.0170\n",
-      "Epoch [9/10], Average Training Loss: 0.0217\n",
-      "Epoch [9/10], Validation Loss: 0.0392, Validation Accuracy: 55.84%\n",
-      "Epoch [10/10], Step [0], Loss: 0.0203\n",
-      "Epoch [10/10], Step [50], Loss: 0.0156\n",
-      "Epoch [10/10], Step [100], Loss: 0.0342\n",
-      "Epoch [10/10], Average Training Loss: 0.0214\n",
-      "Epoch [10/10], Validation Loss: 0.0468, Validation Accuracy: 53.68%\n"
+      "Epoch [1/10], Step [0], Loss: 2.1321\n",
+      "Epoch [1/10], Step [50], Loss: 1.1377\n",
+      "Epoch [1/10], Step [100], Loss: 1.0823\n",
+      "Epoch [1/10], Average Training Loss: 1.1846\n",
+      "Epoch [1/10], Validation Loss: 1.0595, Validation Accuracy: 62.50%\n",
+      "Epoch [2/10], Step [0], Loss: 1.1224\n",
+      "Epoch [2/10], Step [50], Loss: 0.9941\n",
+      "Epoch [2/10], Step [100], Loss: 0.9717\n",
+      "Epoch [2/10], Average Training Loss: 1.0494\n",
+      "Epoch [2/10], Validation Loss: 1.0302, Validation Accuracy: 64.05%\n",
+      "Epoch [3/10], Step [0], Loss: 0.8839\n",
+      "Epoch [3/10], Step [50], Loss: 0.8905\n",
+      "Epoch [3/10], Step [100], Loss: 0.9655\n",
+      "Epoch [3/10], Average Training Loss: 0.9927\n",
+      "Epoch [3/10], Validation Loss: 0.9852, Validation Accuracy: 66.05%\n",
+      "Epoch [4/10], Step [0], Loss: 0.7209\n",
+      "Epoch [4/10], Step [50], Loss: 0.9378\n",
+      "Epoch [4/10], Step [100], Loss: 1.0867\n",
+      "Epoch [4/10], Average Training Loss: 0.9635\n",
+      "Epoch [4/10], Validation Loss: 0.9873, Validation Accuracy: 65.55%\n",
+      "Epoch [5/10], Step [0], Loss: 0.8427\n",
+      "Epoch [5/10], Step [50], Loss: 0.8599\n",
+      "Epoch [5/10], Step [100], Loss: 1.0789\n",
+      "Epoch [5/10], Average Training Loss: 0.9269\n",
+      "Epoch [5/10], Validation Loss: 0.9996, Validation Accuracy: 65.21%\n",
+      "Epoch [6/10], Step [0], Loss: 0.8590\n",
+      "Epoch [6/10], Step [50], Loss: 0.8384\n",
+      "Epoch [6/10], Step [100], Loss: 1.0136\n",
+      "Epoch [6/10], Average Training Loss: 0.8948\n",
+      "Epoch [6/10], Validation Loss: 0.9701, Validation Accuracy: 65.99%\n",
+      "Epoch [7/10], Step [0], Loss: 0.8660\n",
+      "Epoch [7/10], Step [50], Loss: 0.8928\n",
+      "Epoch [7/10], Step [100], Loss: 0.8294\n",
+      "Epoch [7/10], Average Training Loss: 0.8603\n",
+      "Epoch [7/10], Validation Loss: 0.9357, Validation Accuracy: 67.24%\n",
+      "Epoch [8/10], Step [0], Loss: 0.8197\n",
+      "Epoch [8/10], Step [50], Loss: 0.8635\n",
+      "Epoch [8/10], Step [100], Loss: 0.6465\n",
+      "Epoch [8/10], Average Training Loss: 0.8241\n",
+      "Epoch [8/10], Validation Loss: 0.9653, Validation Accuracy: 66.30%\n",
+      "Epoch [9/10], Step [0], Loss: 0.7738\n",
+      "Epoch [9/10], Step [50], Loss: 0.9318\n",
+      "Epoch [9/10], Step [100], Loss: 0.7034\n",
+      "Epoch [9/10], Average Training Loss: 0.7936\n",
+      "Epoch [9/10], Validation Loss: 0.9328, Validation Accuracy: 67.43%\n",
+      "Epoch [10/10], Step [0], Loss: 0.6648\n",
+      "Epoch [10/10], Step [50], Loss: 0.7359\n",
+      "Epoch [10/10], Step [100], Loss: 0.6791\n",
+      "Epoch [10/10], Average Training Loss: 0.7458\n",
+      "Epoch [10/10], Validation Loss: 0.9526, Validation Accuracy: 66.35%\n"
      ]
     }
    ],
@@ -1069,19 +1069,19 @@
   {
    "cell_type": "code",
    "execution_count": 19,
-   "id": "4518bad1",
+   "id": "f074e123",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T13:24:29.022003Z",
-     "iopub.status.busy": "2024-06-23T13:24:29.021612Z",
-     "iopub.status.idle": "2024-06-23T13:26:36.151739Z",
-     "shell.execute_reply": "2024-06-23T13:26:36.150793Z"
+     "iopub.execute_input": "2024-06-23T21:35:31.110841Z",
+     "iopub.status.busy": "2024-06-23T21:35:31.110524Z",
+     "iopub.status.idle": "2024-06-23T21:36:59.518024Z",
+     "shell.execute_reply": "2024-06-23T21:36:59.517023Z"
     },
     "papermill": {
-     "duration": 127.15723,
-     "end_time": "2024-06-23T13:26:36.166033",
+     "duration": 88.434358,
+     "end_time": "2024-06-23T21:36:59.532381",
      "exception": false,
-     "start_time": "2024-06-23T13:24:29.008803",
+     "start_time": "2024-06-23T21:35:31.098023",
      "status": "completed"
     },
     "tags": []
@@ -1091,7 +1091,7 @@
      "name": "stderr",
      "output_type": "stream",
      "text": [
-      "/tmp/ipykernel_25/2271171968.py:18: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`\n",
+      "/tmp/ipykernel_24/2271171968.py:18: FutureWarning: Series.__getitem__ treating keys as positions is deprecated. In a future version, integer keys will always be treated as labels (consistent with DataFrame behavior). To access a value by position, use `ser.iloc[pos]`\n",
       "  label = torch.tensor(self.df.iloc[idx, 1:9], dtype=torch.float32)\n"
      ]
     },
@@ -1099,15 +1099,37 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Epoch [10/10], Test Loss: 0.0434, Test Accuracy: 51.81%\n"
+      "Test Loss: 0.9945, Test Accuracy: 65.14%\n",
+      "              precision    recall  f1-score   support\n",
+      "\n",
+      "         MEL       0.59      0.48      0.53       870\n",
+      "          NV       0.78      0.90      0.83      2127\n",
+      "         BCC       0.61      0.53      0.57       664\n",
+      "          AK       0.23      0.28      0.26       186\n",
+      "         BKL       0.45      0.35      0.40       458\n",
+      "          DF       0.50      0.04      0.07        50\n",
+      "        VASC       0.83      0.31      0.45        32\n",
+      "         SCC       0.17      0.23      0.20       120\n",
+      "\n",
+      "    accuracy                           0.65      4507\n",
+      "   macro avg       0.52      0.39      0.41      4507\n",
+      "weighted avg       0.64      0.65      0.64      4507\n",
+      "\n"
      ]
     }
    ],
    "source": [
+    "import torch\n",
+    "import torch.nn as nn\n",
+    "from sklearn.metrics import classification_report\n",
+    "\n",
     "model.eval()\n",
     "test_running_loss = 0.0\n",
     "correct = 0\n",
     "total = 0\n",
+    "all_true_labels = []\n",
+    "all_predicted_labels = []\n",
+    "\n",
     "with torch.no_grad():\n",
     "    for idx, (images, tabular_data, labels) in enumerate(test_loader):\n",
     "        images, tabular_data, labels = images.to(device), tabular_data.to(device), labels.to(device)\n",
@@ -1116,94 +1138,115 @@
     "        test_running_loss += test_loss.item()\n",
     "\n",
     "        true_labels = torch.argmax(labels, dim=1)\n",
-    "\n",
     "        predicted_labels = torch.argmax(outputs, dim=1)\n",
+    "\n",
+    "        all_true_labels.extend(true_labels.cpu().numpy())\n",
+    "        all_predicted_labels.extend(predicted_labels.cpu().numpy())\n",
     "\n",
     "        total += labels.size(0)\n",
     "        correct += (predicted_labels == true_labels).sum().item()\n",
     "\n",
-    "        \n",
     "avg_test_loss = test_running_loss / len(test_loader)\n",
     "test_accuracy = 100 * correct / total\n",
-    "print(f'Epoch [{epoch+1}/{num_epochs}], Test Loss: {avg_test_loss:.4f}, Test Accuracy: {test_accuracy:.2f}%')"
+    "print(f'Test Loss: {avg_test_loss:.4f}, Test Accuracy: {test_accuracy:.2f}%')\n",
+    "\n",
+    "# Generate classification report\n",
+    "class_names = ['MEL', 'NV', 'BCC', 'AK', 'BKL', 'DF', 'VASC', 'SCC']\n",
+    "report = classification_report(all_true_labels, all_predicted_labels, target_names=class_names)\n",
+    "print(report)"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 20,
-   "id": "b3846cef",
+   "id": "773de0fd",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2024-06-23T13:26:36.191348Z",
-     "iopub.status.busy": "2024-06-23T13:26:36.190999Z",
-     "iopub.status.idle": "2024-06-23T13:26:36.195155Z",
-     "shell.execute_reply": "2024-06-23T13:26:36.194332Z"
+     "iopub.execute_input": "2024-06-23T21:36:59.557305Z",
+     "iopub.status.busy": "2024-06-23T21:36:59.557019Z",
+     "iopub.status.idle": "2024-06-23T21:36:59.562362Z",
+     "shell.execute_reply": "2024-06-23T21:36:59.561524Z"
     },
     "papermill": {
-     "duration": 0.019094,
-     "end_time": "2024-06-23T13:26:36.197050",
+     "duration": 0.020088,
+     "end_time": "2024-06-23T21:36:59.564246",
      "exception": false,
-     "start_time": "2024-06-23T13:26:36.177956",
+     "start_time": "2024-06-23T21:36:59.544158",
      "status": "completed"
     },
     "tags": []
    },
    "outputs": [],
    "source": [
-    "#Test set on image input (256*256*3 with weights frequency_based and batch size 128): 67.34%\n",
-    "#Test set on image input (256*256*3 without weights and batch size 128): 67.03%"
+    "# #Test set on image input (64*64*3 with weights frequency_based and batch size 128): 67.34%\n",
+    "# Test Loss: 1.3568, Test Accuracy: 69.18%\n",
+    "#               precision    recall  f1-score   support\n",
+    "\n",
+    "#          MEL       0.57      0.59      0.58       870\n",
+    "#           NV       0.81      0.87      0.84      2127\n",
+    "#          BCC       0.60      0.82      0.69       664\n",
+    "#           AK       0.54      0.23      0.32       186\n",
+    "#          BKL       0.54      0.24      0.33       458\n",
+    "#           DF       0.86      0.12      0.21        50\n",
+    "#         VASC       0.41      0.69      0.51        32\n",
+    "#          SCC       0.34      0.24      0.28       120\n",
+    "\n",
+    "#     accuracy                           0.69      4507\n",
+    "#    macro avg       0.58      0.48      0.47      4507\n",
+    "# weighted avg       0.68      0.69      0.67      4507\n",
+    "\n",
+    "# #Test set on image input (256*256*3 with weights proportionaly-inverse, normalized and batch size 128):\n",
+    "# Test Loss: 0.0378, Test Accuracy: 54.18%\n",
+    "#               precision    recall  f1-score   support\n",
+    "\n",
+    "#          MEL       0.58      0.41      0.48       870\n",
+    "#           NV       0.91      0.61      0.73      2127\n",
+    "#          BCC       0.63      0.53      0.58       664\n",
+    "#           AK       0.23      0.66      0.34       186\n",
+    "#          BKL       0.25      0.47      0.33       458\n",
+    "#           DF       0.20      0.50      0.28        50\n",
+    "#         VASC       0.19      0.91      0.31        32\n",
+    "#          SCC       0.19      0.34      0.24       120\n",
+    "\n",
+    "#     accuracy                           0.54      4507\n",
+    "#    macro avg       0.40      0.55      0.41      4507\n",
+    "# weighted avg       0.68      0.54      0.58      4507\n",
+    "\n",
+    "\n",
+    "# #Test set on image input (256*256*3 with no weights and batch size 128): \n",
+    "# Test Loss: 1.4176, Test Accuracy: 70.42%\n",
+    "#               precision    recall  f1-score   support\n",
+    "\n",
+    "#          MEL       0.67      0.50      0.57       870\n",
+    "#           NV       0.74      0.94      0.83      2127\n",
+    "#          BCC       0.69      0.77      0.73       664\n",
+    "#           AK       0.42      0.32      0.36       186\n",
+    "#          BKL       0.66      0.27      0.38       458\n",
+    "#           DF       0.62      0.10      0.17        50\n",
+    "#         VASC       0.68      0.72      0.70        32\n",
+    "#          SCC       0.44      0.19      0.27       120\n",
+    "\n",
+    "#     accuracy                           0.70      4507\n",
+    "#    macro avg       0.62      0.47      0.50      4507\n",
+    "# weighted avg       0.69      0.70      0.68      4507"
    ]
   },
   {
    "cell_type": "code",
-   "execution_count": 21,
-   "id": "ff46ff51",
+   "execution_count": null,
+   "id": "de100082",
    "metadata": {
-    "execution": {
-     "iopub.execute_input": "2024-06-23T13:26:36.222360Z",
-     "iopub.status.busy": "2024-06-23T13:26:36.222040Z",
-     "iopub.status.idle": "2024-06-23T13:26:37.235766Z",
-     "shell.execute_reply": "2024-06-23T13:26:37.234533Z"
-    },
     "papermill": {
-     "duration": 1.029347,
-     "end_time": "2024-06-23T13:26:37.238386",
+     "duration": 0.011569,
+     "end_time": "2024-06-23T21:36:59.632166",
      "exception": false,
-     "start_time": "2024-06-23T13:26:36.209039",
+     "start_time": "2024-06-23T21:36:59.620597",
      "status": "completed"
     },
     "tags": []
    },
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "Sun Jun 23 13:26:37 2024       \r\n",
-      "+---------------------------------------------------------------------------------------+\r\n",
-      "| NVIDIA-SMI 535.129.03             Driver Version: 535.129.03   CUDA Version: 12.2     |\r\n",
-      "|-----------------------------------------+----------------------+----------------------+\r\n",
-      "| GPU  Name                 Persistence-M | Bus-Id        Disp.A | Volatile Uncorr. ECC |\r\n",
-      "| Fan  Temp   Perf          Pwr:Usage/Cap |         Memory-Usage | GPU-Util  Compute M. |\r\n",
-      "|                                         |                      |               MIG M. |\r\n",
-      "|=========================================+======================+======================|\r\n",
-      "|   0  Tesla P100-PCIE-16GB           Off | 00000000:00:04.0 Off |                    0 |\r\n",
-      "| N/A   39C    P0              37W / 250W |   5238MiB / 16384MiB |      0%      Default |\r\n",
-      "|                                         |                      |                  N/A |\r\n",
-      "+-----------------------------------------+----------------------+----------------------+\r\n",
-      "                                                                                         \r\n",
-      "+---------------------------------------------------------------------------------------+\r\n",
-      "| Processes:                                                                            |\r\n",
-      "|  GPU   GI   CI        PID   Type   Process name                            GPU Memory |\r\n",
-      "|        ID   ID                                                             Usage      |\r\n",
-      "|=======================================================================================|\r\n",
-      "+---------------------------------------------------------------------------------------+\r\n"
-     ]
-    }
-   ],
-   "source": [
-    "!nvidia-smi"
-   ]
+   "outputs": [],
+   "source": []
   }
  ],
  "metadata": {
@@ -1241,14 +1284,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 3443.641543,
-   "end_time": "2024-06-23T13:26:38.883709",
+   "duration": 2407.392717,
+   "end_time": "2024-06-23T21:37:01.070938",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2024-06-23T12:29:15.242166",
+   "start_time": "2024-06-23T20:56:53.678221",
    "version": "2.5.0"
   }
  },
